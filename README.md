@@ -1,6 +1,5 @@
 # Learning Management System (LMS)
 
-![LMS Banner](https://via.placeholder.com/800x200/4a86e8/ffffff?text=Learning+Management+System)
 
 ## 📚 Project Overview
 
@@ -141,7 +140,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🎓 Authors
 
-- Your Name - Initial development and design
+- Muhammad Sami - Initial development and design
 
 ## 🙏 Acknowledgments
 
@@ -151,4 +150,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-![Footer](https://via.placeholder.com/800x100/4a86e8/ffffff?text=Learning+Management+System+©+2025)
+
